@@ -28,7 +28,7 @@ export default function HeroImage() {
                   <p>Telaio: <span></span>Z60 ED70 </p>
                   <p>Trasmittanza Uw: <span></span>1.18 W/m²K</p>
                   <p>Superficie: <span></span>3.37 mq m²</p>
-                  <p className={classes.total}>Totale: <span></span>460 EUR</p>
+                  <p className={classes.total}>Totale: <span></span>3460 EUR</p>
                </div>
         
         </div>
